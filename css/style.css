@@ -2525,6 +2525,17 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 20px 0;
 }
 
+#port-card-v1{
+  box-shadow: 2px 4px 10px rgba(140, 140, 140, 0.48);
+  padding: 10px;
+}
+
+#port-card-v2{
+  box-shadow: 2px 3px 3px rgba(140, 140, 140, 0.48);
+  padding: 10px;
+  border: 1px grey solid;
+}
+
 .product-checkout-details .product-card > a {
   padding-right: 20px;
 }
