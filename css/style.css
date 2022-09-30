@@ -2745,3 +2745,46 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+@media (max-width: 768px) {
+  .img-responsive{
+    max-width: 40% !important;
+    border-radius: 50%;
+  }
+
+  .link{
+    display: block;
+  }
+}
+
+.img-responsive{
+  border-radius: 50%;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.link{
+  color: #fff;
+}
+
+.skills{
+  font-size: 12pt;
+  padding: 0px 40px;
+  text-align: left;
+  color: #777;
+}
+
+.skills ul{
+  list-style-type:circle;
+}
+
+.mb-20{
+  margin-bottom: 2rem;
+}
+
+.skill-header{
+  display: block;
+}
